@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    font-family: cursive;
+    font-size:small;
+    background-color:bisque;
+}
+input{
+    background-color:white;
+}
+#placeholder_for_input_and_buttons_1{
+    width:49%;
+    float: right;
+}
+#placeholder_for_input_and_buttons_2{
+    width:49%;
+    float:right;
+}
+#showParagraph1,#showParagraph2{
+    font-weight: bold;
+    font-size:25px;
+}
